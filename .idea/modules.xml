@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadora-app/Calculadora-app.iml" filepath="$PROJECT_DIR$/Calculadora-app/Calculadora-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JSalesApp/JSalesApp.iml" filepath="$PROJECT_DIR$/JSalesApp/JSalesApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListadoPersonasApp/ListadoPersonasApp.iml" filepath="$PROJECT_DIR$/ListadoPersonasApp/ListadoPersonasApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oracle HTMLExport/Oracle HTMLExport.iml" filepath="$PROJECT_DIR$/Oracle HTMLExport/Oracle HTMLExport.iml" />
+      <module fileurl="file://$PROJECT_DIR$/catalogo_peliculas/catalogo_peliculas.iml" filepath="$PROJECT_DIR$/catalogo_peliculas/catalogo_peliculas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/practicajava.iml" filepath="$PROJECT_DIR$/.idea/practicajava.iml" />
+    </modules>
+  </component>
+</project>
